@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/shared/Full_Adder_Project/NAND_gate.xst" -ofn "/home/ise/shared/Full_Adder_Project/NAND_gate.syr" 
